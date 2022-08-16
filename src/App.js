@@ -1,16 +1,19 @@
 
 import './App.css';
-import Navigation from './components/navagation/Navigation';
+import Navigation from './components/navigation/Navigation';
+import Logo from './components/navigation/Logo';
 
 function App() {
   return (
     <div className="App">
 
     <Navigation />
+    <Logo />
+    
 
       {/*
       planning on bulidng these later
-      <Logo />
+
       <ImageLinkform />
       <FaceRecognition /> */}
     </div>
