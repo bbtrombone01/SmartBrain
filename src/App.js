@@ -2,6 +2,7 @@
 import './App.css';
 import Navigation from './components/navigation/Navigation';
 import Logo from './components/logo/Logo';
+import ImageLinkform from './components/imageLinkForm/ImageLinkForm';
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
 
     <Navigation />
     <Logo />
-    
+    <ImageLinkform />
 
       {/*
       planning on bulidng these later
