@@ -6,7 +6,7 @@ const ImageLinkForm = ()=>{
     return (
         <div>
             <p className="f3">
-                {"This Magic Brian will detec faces in your pictures. Give it a try "}
+                {"This Magic Brian will detect faces in your pictures. Give it a try "}
             </p>
             <div>
                 <div className="form pa4 br3 shadow-5">
